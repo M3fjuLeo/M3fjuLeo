@@ -36,8 +36,6 @@
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M3fjuLeo&theme=tokyonight" alt="GitHub stats" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M3fjuLeo&theme=tokyonight" alt="Most used languages" />
 
-<img width="100%" src="https://streak-stats.demolab.com?user=M3fjuLeo&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-
 </div>
 
 ---
