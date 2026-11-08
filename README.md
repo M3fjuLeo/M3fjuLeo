@@ -31,12 +31,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=M3fjuLeo&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3fjuLeo&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M3fjuLeo&theme=tokyonight" alt="Profile details" />
 
-<img src="https://streak-stats.demolab.com?user=M3fjuLeo&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M3fjuLeo&theme=tokyonight" alt="GitHub stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M3fjuLeo&theme=tokyonight" alt="Most used languages" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=M3fjuLeo&hide_border=true&theme=tokyo-night" alt="Contribution graph" />
+<img width="100%" src="https://streak-stats.demolab.com?user=M3fjuLeo&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 
 </div>
 
