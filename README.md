@@ -22,6 +22,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [**Pierce Point**](https://www.piercepoint.no) | Booking platform + admin CRM (Norway) | Next.js, TypeScript, Node.js, MongoDB |
+| [**InTouch**](https://intouchterapi.no/no) | Massage studio website in 3 languages (Norway) | Next.js, TypeScript, Tailwind, next-intl |
 | [**Błysk**](https://sprzataniekrakow.pl) | Cleaning company website (Kraków) | Next.js, TypeScript, Tailwind |
 | [**Smacznie Zdrowo Kolorowo**](https://smaczniezdrowokolorowo.com) | Catering company website | React, TypeScript, Tailwind |
 
